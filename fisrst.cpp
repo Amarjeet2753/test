@@ -71,7 +71,8 @@ void seive()
 
 void solution()
 {
-  
+   int a,b;
+   
 }
 
 signed main()
